@@ -5,7 +5,7 @@ smb-enumerate-shares provides a single function that takes a number of parameter
 
 ## Install
 ```
-$ npm install Ferluci/smb-enumerate-shares
+$ npm install ferluci/smb-enumerate-shares
 ```
 
 ## Usage
